@@ -55,7 +55,7 @@ Se utilizó la biblioteca tokenizer para dividir el texto de los tweets en unida
 Esquema general del entrenamiento del modelo.
 
 <div align="center">
-	<img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c" scale="450" height="300"/>
+	<img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c" scale="400" height="300"/>
 </div>
 
 - ## Arquitectura del prototipo
@@ -63,7 +63,7 @@ Esquema general del entrenamiento del modelo.
 La arquitectura fue destinada para implementarla en una aplicación web.
 
 <div align="center">
-	 <img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/d255f5c9-8061-4984-bc18-7fb2b82a622c" scale="450" height="300" />
+	 <img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/d255f5c9-8061-4984-bc18-7fb2b82a622c" scale="400" height="300" />
 </div>
  
 La arquitectura como se manifiesta en la Ilustración anterior, en la cual se observar el funcionamiento e interacciones entre los componentes empleados en el desarrollo del prototipo.

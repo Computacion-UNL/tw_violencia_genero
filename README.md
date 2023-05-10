@@ -118,6 +118,7 @@ Selección del tipo de búsqueda:
 
 Ingresar el numero de tweets a analizar:
   - De 1 a 50, por la restricción de la Api de twitter.
+  
 Página principal:
   - Cuadro de búsqueda: para poder introduccir los datos de búsqueda.
   - Cuadro de resultado: se presentan los resultados de los datos ingresados en una tabla conformada por los tweets con su respectiva clasificación.

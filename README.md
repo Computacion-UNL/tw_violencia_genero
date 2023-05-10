@@ -55,7 +55,7 @@ Se utilizó la biblioteca tokenizer para dividir el texto de los tweets en unida
 Esquema general del entrenamiento del modelo.
 
 <div align="center">
-	<img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c" scale="200" height="250"/>
+	<img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c" scale="150" height="200"/>
 </div>
 
 Teniendo como referencia los hiperparámetros obtenidos en la revisión de literatura, para la arquitectura del modelo se tomaron como base los siguientes valores: para el ajuste de la Tasa de Aprendizaje (LR) los siguientes valores: 1e-5, 2e-5, 3e-5, 5e-5, en cuanto al tamaño de Lote (batch) valores que varían de 5 a 32 y las Épocas (Epoch), ajustes con los que se obtiene diferentes resultados buscando la mejor precisión y una pérdida mínima que pueda ofrecer resultados óptimos al momento de entrenar el modelo.

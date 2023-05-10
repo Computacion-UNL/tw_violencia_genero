@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/33547749/195964318-e2ebf200-8881-4448-8be5-d2475b88c6fd.png"/></p> 
+<p align="center"><img src="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/45e7fb99-ee29-435f-9570-d0ff67b985ac"/></p> 
 
 ## Tabla de contenidos:
 ---
@@ -27,7 +27,7 @@ El presente repositorio almacena los archivos utilizados para el desarrollo del 
 
 ## Desarrollo
 ---
-El objetivo del presente TT es construir un modelo de lenguaje utilizando RoBERTuito, para identificar tweets con contenido de violencia política de género hacia las asambleístas electas en Ecuador para el periodo 2021-202.
+El objetivo del presente trabajo es construir un modelo de lenguaje utilizando RoBERTuito, para identificar tweets con contenido de violencia política de género hacia las asambleístas electas en Ecuador para el periodo 2021-202.
 
 - ## Construcción del conjunto de datos proveniente de la red social Twitter, basado en las menciones a las cuentas oficiales de las Asambleístas ecuatorianas electas para el periodo 2021-2025.
 ---
@@ -54,8 +54,10 @@ Se utilizó la biblioteca tokenizer para dividir el texto de los tweets en unida
 - ## Arquitectura del modelo
 ---
 Esquema general del entrenamiento del modelo.
-![image](https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c)
 
+<div align="center">
+![image](https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c)
+</div>
 - ## Arquitectura del prototipo
 ---
 La arquitectura fue destinada para implementarla en una aplicación web.

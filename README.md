@@ -55,7 +55,7 @@ Se utilizó la biblioteca tokenizer para dividir el texto de los tweets en unida
 Esquema general del entrenamiento del modelo.
 
 <div align="center">
-	<img src =(https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c)/>
+	<img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c" scale="750" height="350"/>
 </div>
 
 - ## Arquitectura del prototipo

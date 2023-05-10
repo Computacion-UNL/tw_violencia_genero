@@ -12,7 +12,6 @@
   - [Evaluar el modelo](#Evaluar-modelo)
   - [Creación de la Api de Twitter](#Creación-api-twitter)
   - [Interfaz](#interfaz)
-- [Guía de instalación](#guía-de-instalación)
 - [Guía de usuario](#guía-de-usuario)
 - [Información adicional](#información-adicional)
 

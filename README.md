@@ -18,7 +18,7 @@
 ## Autor
 ---
 El presente Trabajo de Titulación fue desarrollado por:
--   Edmundo José Pezantes Urrego - Edmundo.j.pezantes@unl.edu.ec
+-  Edmundo José Pezantes Urrego - Edmundo.j.pezantes@unl.edu.ec
 
 ## Introducción
 ---
@@ -53,10 +53,7 @@ Se utilizó la biblioteca tokenizer para dividir el texto de los tweets en unida
 - ## Arquitectura del modelo
 ---
 Esquema general del entrenamiento del modelo.
-
-<div align="center">
-	<img src ="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c" scale="200" height="190"/>
-</div>
+<p align="center"><img src="https://github.com/Computacion-UNL/tw_violencia_genero/assets/50312849/53d4676b-c2cf-45f6-8084-e0fae16a544c"/></p> 
 
 Teniendo como referencia los hiperparámetros obtenidos en la revisión de literatura, para la arquitectura del modelo se tomaron como base los siguientes valores: para el ajuste de la Tasa de Aprendizaje (LR) los siguientes valores: 1e-5, 2e-5, 3e-5, 5e-5, en cuanto al tamaño de Lote (batch) valores que varían de 5 a 32 y las Épocas (Epoch), ajustes con los que se obtiene diferentes resultados buscando la mejor precisión y una pérdida mínima que pueda ofrecer resultados óptimos al momento de entrenar el modelo.
 
@@ -70,7 +67,7 @@ La arquitectura fue destinada para implementarla en una aplicación web.
  
 La arquitectura como se manifiesta en la Ilustración anterior, en la cual se observar el funcionamiento e interacciones entre los componentes empleados en el desarrollo del prototipo.
 
-- ##Entrenamiento del modelo de lenguaje creado utilizando RoBERTuito.
+- ## Entrenamiento del modelo de lenguaje creado utilizando RoBERTuito.
 ---
 Para entrenar el modelo, se empleó el lenguaje de programación Python con Pytorch que es una librería de aprendizaje automático, y la librería Transformers la cual proporciona arquitecturas de uso general, esto en conjunto con la herramienta Google Colab, puesto que permite hacer uso de sus GPU’s que son de buenas características.
 
@@ -109,7 +106,6 @@ Finalmente se codifico la parte de la interfaz, la cual se la codifico con la li
 </div>
 
 El resultado final de este proyecto lo puede ver <A HREF="https://huggingface.co/spaces/JosePezantes/Violencia-politica-genero"> aqui. </A>
-
 
 
 ## Guía de usuario
